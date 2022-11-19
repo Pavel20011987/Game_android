@@ -1,0 +1,21 @@
+.wrapper{
+    width:400px;
+    height:400px;
+    margin:100px auto;
+}
+.square{
+    width:120px;
+    height:120px;
+    background-color:black;
+    margin:5px;
+    font-size:90px;
+    color:white;
+    cursor:pointer;
+    float:left;    
+    text-align:center;
+    font-family: sans-serif;
+}
+body{
+    background-image:url('pexels-photo-625219.jpeg');
+    background-repeat: no-repeat;
+}
